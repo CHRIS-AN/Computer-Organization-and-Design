@@ -1,6 +1,6 @@
 # Computer-Organization-and-Design
 Computer Organization and Design  -Patterson, David A. / Hennessy, John L- <br>
-(2022-08-01 ~ 2022-09-18) <br>
+(2022-08-01 ~ ) <br>
 
 KOCW 영남대학교 최규상 교수 강의와 컴퓨터 구조 및 설계(Computer Organization and Design) 책으로 같이 진행 <br>
 
